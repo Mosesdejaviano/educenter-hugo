@@ -138,7 +138,7 @@ email = "healthyeatingevangelist@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+2348137821105"
-top_header = false
+top_header = true
 [params.cookies]
 enable = true
 expire_days = 2
