@@ -1,13 +1,13 @@
 baseURL = "https://healthyeatingevangelist.netlify.app"
 disableLanguages = []
-disqusShortname = "educenter"
+disqusShortname = "healthyeating"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 title = "Healthy Eating Evangelist"
 [Languages.en]
 contentDir = "content/english"
-copyright = ""
+copyright = "Copyright @healthyeatingevangelist"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
