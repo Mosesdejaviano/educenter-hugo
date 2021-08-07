@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "Healthy Eating Evangelist"
 [Languages.en]
 contentDir = "content/english"
 copyright = ""
