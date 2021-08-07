@@ -69,7 +69,7 @@ url = "contact"
 weight = 5
 [Languages.fr]
 contentDir = "content/french"
-copyright = ""
+copyright = "Copyright @healthyeatingevangelist"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
