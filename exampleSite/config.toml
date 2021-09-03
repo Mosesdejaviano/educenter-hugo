@@ -134,9 +134,9 @@ address = "9510 South Constance Avenue Chicago, Illinois 60617"
 author = "Themefisher"
 contact_form_action = ""
 description = "IT TAKES A VILLAGE TO RAISE OUR CHILDREN!"
-email = "villagehouselearningcenter"
+email = "villagehouselearningcenter@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/villagecenterlogo.png"
 mobile = "773-824-6108"
 top_header = true
 [params.cookies]
