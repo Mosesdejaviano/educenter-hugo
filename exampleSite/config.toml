@@ -1,13 +1,13 @@
-baseURL = "https://healthyeatingevangelist.netlify.app"
-disableLanguages = []
-disqusShortname = "healthyeating"
+baseURL = "https://villagehouselearningcenter.netlify.app"
+disableLanguages = ["fr", ""]
+disqusShortname = "villagehouselearningcenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Healthy Eating Evangelist"
+title = "Village House Learning Center"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright @healthyeatingevangelist"
+copyright = "Copyright @villagehouselearningcenter"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -130,14 +130,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "Lagos, Nigeria"
+address = "9510 South Constance Avenue Chicago, Illinois 60617"
 author = "Themefisher"
-contact_form_action = "#"
-description = "This is meta description"
-email = "healthyeatingevangelist@gmail.com"
+contact_form_action = ""
+description = "IT TAKES A VILLAGE TO RAISE OUR CHILDREN!"
+email = "villagehouselearningcenter"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+2348137821105"
+mobile = "773-824-6108"
 top_header = true
 [params.cookies]
 enable = true
